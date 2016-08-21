@@ -1,20 +1,14 @@
-typography_spectrum: 0.07223281380720437
+layout_spectrum: 0.46897405246272683
+typography_spectrum: 0.6350070703774691
 color:
-  brandStrength: 0.13005563360638916
-  lightness: 0.833259921753779
-  saturation: 0.5684903070796281
-  rhythmicContrast: 0.949700735276565
+  brandStrength: 0.07997648324817419
+  lightness: 0.05749189923517406
+  saturation: 0.3838613126426935
+  rhythmicContrast: 0.8330706572160125
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.022468958282843232
-author:
-  name: Zane Johnson
-  email: zane@zanejohnsonphotography.com
-  url: ZaneJohnson.info
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Wiscopics
-title: Wisco Pics
-description: Wisconsin through the lens

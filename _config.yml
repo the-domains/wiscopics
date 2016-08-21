@@ -1,4 +1,3 @@
-layout_spectrum: 0.46897405246272683
 typography_spectrum: 0.6350070703774691
 color:
   brandStrength: 0.07997648324817419
@@ -11,4 +10,10 @@ color:
     - '#284907'
     - '#382513'
     - '#363942'
+layout_spectrum: 0.46897405246272683
+author:
+  name: Zane Johnson
+  email: zane@zanejohnsonphotography.com
+  url: ZaneJohnson.info
 name: Wiscopics
+title: Wisconsin through the lens
